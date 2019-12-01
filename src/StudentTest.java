@@ -11,7 +11,7 @@ public class StudentTest {
             s.regist(-1001);
             // 对Student类throws的异常进行try-catch处理；
             System.out.println("aaaaaaaa");
-            System.out.println("ccccc");
+            System.out.println("dddddd");
             System.out.println(s);
         }catch (Exception e){
             System.out.println(e.getMessage());
