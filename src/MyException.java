@@ -8,7 +8,7 @@ public class MyException extends Exception {
     public MyException() {
 
     }
-
+//构造方法
     public MyException(String msg) {
         super(msg);
     }
